@@ -44,10 +44,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dulakshi1910&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulakshi1910&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Dulakshi1910&theme=tokyonight&hide_border=true" alt="GitHub streak" />
